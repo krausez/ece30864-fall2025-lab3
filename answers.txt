@@ -5,3 +5,7 @@ The role and responsibility of the scrum master is to deal with JIRA tooling, fa
 c)
 The first meeting is a planning meeting where it is determined what is to be completed and determining story points and assigning stories to the team. Daily Scrum/ Standup meetings usually last 10 minutes where members discuss work completed, work plan for the day and any blockers. Sprint Retrospective Meeting occurs at the end where you discuss completed work and move incomplete work to backlog
 d)
+ Epic - captures a large body of work that can be broken down into several smaller stories
+ Story - A software system requirement that can be expressed in a few sentences
+ Bug - A problem that occurs where unplanned behavior may occur
+ Task - A generic piece of work that represents a problem or defect
