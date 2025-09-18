@@ -3,5 +3,5 @@ a)
 b)
 The role and responsibility of the scrum master is to deal with JIRA tooling, facilitating sprints, and meetings. The Product Owner sets direction for the team, handles releases and stakeholder management
 c)
-
+The first meeting is a planning meeting where it is determined what is to be completed and determining story points and assigning stories to the team. Daily Scrum/ Standup meetings usually last 10 minutes where members discuss work completed, work plan for the day and any blockers. Sprint Retrospective Meeting occurs at the end where you discuss completed work and move incomplete work to backlog
 d)
